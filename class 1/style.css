@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+.heading{
+    margin-top: 64px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: 45px;
+    padding: 10px;
+}
+.logo{
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+.para{
+    margin-top: 20px;
+    padding: 0 150px;
+    font-size: 20px;
+    line-height: 1.7;
+}
+.btn{
+    margin: 50px;
+    cursor: pointer;
+    padding: 16px 20px;
+    font-size: 22px;
+    background-color: black;
+    border-radius: 8px;
+    transition: 0.5s;
+}
+.btn a{
+    color: white;
+}
+
+.btn:hover{
+    background-color: maroon;
+    border: none;
+    transition: 0.5s;
+    transform: rotate(360deg);
+}
