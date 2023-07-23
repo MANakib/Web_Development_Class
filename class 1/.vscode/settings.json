@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4118d0dc-e0fd-4521-a829-468453e4725e/resourceGroups/IAU_BOT_RM/providers/Microsoft.Web/sites/botappiau",
+    "appService.deploySubpath": "."
+}
